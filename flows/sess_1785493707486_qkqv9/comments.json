@@ -26,6 +26,15 @@
       "authorEmail": "maker@itrace.local",
       "body": "lol",
       "createdAt": "2026-09-17 06:56:57"
+    },
+    {
+      "id": "comment_1789638026498_li0kvc",
+      "stepId": "step_1786112702776_qb8s3",
+      "authorName": "Ravi Kumar",
+      "authorRole": "checker",
+      "authorEmail": "checker@itrace.local",
+      "body": "hi everyone",
+      "createdAt": "2026-09-17 09:40:26"
     }
   ]
 }
