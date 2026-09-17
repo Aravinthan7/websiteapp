@@ -35,6 +35,15 @@
       "authorEmail": "checker@itrace.local",
       "body": "hi everyone",
       "createdAt": "2026-09-17 09:40:26"
+    },
+    {
+      "id": "comment_1789638701720_herk3x",
+      "stepId": "step_1786112702776_qb8s3",
+      "authorName": "Ravi Kumar",
+      "authorRole": "checker",
+      "authorEmail": "checker@itrace.local",
+      "body": "hk",
+      "createdAt": "2026-09-17 09:51:41"
     }
   ]
 }
