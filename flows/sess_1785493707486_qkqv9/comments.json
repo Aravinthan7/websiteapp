@@ -1,3 +1,13 @@
 {
-  "comments": []
+  "comments": [
+    {
+      "id": "comment_1789626133323_a6vdtp",
+      "stepId": "step_1786112702776_qb8s3",
+      "authorName": "Maya Patel",
+      "authorRole": "maker",
+      "authorEmail": "maker@itrace.local",
+      "body": "hi",
+      "createdAt": "2026-09-17 06:22:13"
+    }
+  ]
 }
