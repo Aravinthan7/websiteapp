@@ -8,6 +8,15 @@
       "authorEmail": "maker@itrace.local",
       "body": "hi",
       "createdAt": "2026-09-17 06:22:13"
+    },
+    {
+      "id": "comment_1789626255137_pt83o7",
+      "stepId": "step_1786112702776_qb8s3",
+      "authorName": "Maya Patel",
+      "authorRole": "maker",
+      "authorEmail": "maker@itrace.local",
+      "body": "hello",
+      "createdAt": "2026-09-17 06:24:15"
     }
   ]
 }
