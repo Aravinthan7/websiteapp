@@ -53,6 +53,15 @@
       "authorEmail": "maker@itrace.local",
       "body": "Hi github testing",
       "createdAt": "2026-09-22 08:53:16"
+    },
+    {
+      "id": "comment_1790067381621_i1em16",
+      "stepId": "step_1786112702776_qb8s3",
+      "authorName": "Maya Patel",
+      "authorRole": "maker",
+      "authorEmail": "maker@itrace.local",
+      "body": "hello",
+      "createdAt": "2026-09-22 08:56:21"
     }
   ]
 }
