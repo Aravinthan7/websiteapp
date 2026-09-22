@@ -1501,6 +1501,25 @@
         "elementBounds": null
       },
       "imageFile": null
+    },
+    {
+      "id": "step_1790067635833_i9t61",
+      "order": 14,
+      "title": "Blank Step 15",
+      "description": "",
+      "notes": "",
+      "appName": "",
+      "stepType": "click",
+      "instruction": "",
+      "actionType": "left_click",
+      "bgColor": "#ffffff",
+      "x": null,
+      "y": null,
+      "hotspot": null,
+      "annotations": [],
+      "blurRegions": [],
+      "metadata": {},
+      "imageFile": null
     }
   ],
   "reviewStatus": "draft",
@@ -1508,5 +1527,5 @@
   "reviewSubmittedAt": null,
   "versionPrefix": "v",
   "versionMajor": 1,
-  "versionMinor": 1
+  "versionMinor": 2
 }
